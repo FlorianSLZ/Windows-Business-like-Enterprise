@@ -3,4 +3,4 @@
 This repository has the goal to provide YOU with resources on how to manage a Windows Business environment with its limitations. 
 For most of them, there are easy workarounds or if you're not able to use a Group Policy in most cases there is a registry key that does the same. 
 
-## >> [Wiki](/wiki)
+## >> [Wiki](https://github.com/FlorianSLZ/Windows-Business-like-Enterprise/wiki)
